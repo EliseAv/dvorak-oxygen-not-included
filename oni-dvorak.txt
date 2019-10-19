@@ -1,0 +1,66 @@
+, pan up
+o pan down
+a pan left
+e pan right
+i dig
+m mop
+t clear
+c disinfect
+y attack
+b capture
+f harvest
+l prioritize
+oalt screenshot
+j cancel building
+q deconstruct building
+d home
+x copy building
+r rotate building
+n manage priorities
+u manage consumables
+k manage vitals
+p manage research
+. manage report
+g manage database
+h manage skills
+v manage schedule
+; manage starmap
+j cinema cam enable
+a cinema pan left
+e cinema pan right
+, cinema pan up
+o cinema pan down
+c cinema zoom in
+r cinema zoom out
+; cinema zoom speed plus
+;shift cinema zoom speed minus
+y cinema toggle lock
+. cinema toggle easing
+z toggle open
+\ building utility 1
+/ building utility 2
+= building utility 3
+yctrl debug focus
+gctrl debug ultra test mode
+balt debug refresh nav cell
+'ctrl debug goto target
+octrl debug select material
+mctrl debug control music
+'alt debug teleport
+yalt debug toggle select in editor
+lalt debug path finding
+;alt debug super speed
+]alt debug game step
+[alt debug sim step
+qalt debug notification
+jalt debug notification message
+xshift sandbox brush
+bshift sandbox sprinkle
+ushift sandbox flood
+tshift sandbox sample
+dshift sandbox heat gun
+jshift sandbox clear floor
+qshift sandbox destroy
+.shift sandbox spawn entity
+oshift sandbox toggle tools
+pshift sandbox reveal
