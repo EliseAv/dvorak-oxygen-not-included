@@ -14,8 +14,14 @@ oalt screenshot
 j cancel building
 q deconstruct building
 d home
+[ plan 11
+] plan 12
+[shift plan 13
+]shift plan 14
 x copy building
+
 r rotate building
+
 n manage priorities
 u manage consumables
 k manage vitals
@@ -25,6 +31,7 @@ g manage database
 h manage skills
 v manage schedule
 ; manage starmap
+
 j cinema cam enable
 a cinema pan left
 e cinema pan right
@@ -36,10 +43,12 @@ r cinema zoom out
 ;shift cinema zoom speed minus
 y cinema toggle lock
 . cinema toggle easing
+
 z toggle open
 \ building utility 1
 / building utility 2
 = building utility 3
+
 yctrl debug focus
 gctrl debug ultra test mode
 balt debug refresh nav cell
@@ -54,6 +63,9 @@ lalt debug path finding
 [alt debug sim step
 qalt debug notification
 jalt debug notification message
+oalt debug lock cursor
+ralt debug toggle personal priority comparison
+
 xshift sandbox brush
 bshift sandbox sprinkle
 ushift sandbox flood
